@@ -7,6 +7,8 @@
 - 🎶 Adoro escuchar música 
 - 😌 No sé hacer chistes, pero AMO reirme 
 
-Lo que me motiva a hacer ciencia es el amor por el descubrimiento y el saber. Me gusta conocer todo lo que hay a mi alrededor, y gracias a la ciencia es que se le ha podido dar explicación a todo lo que ocurre en el universo. Los cientifíficos y divulgadores hacen que sea posible todo esto. 
+Lo que me motiva a hacer ciencia es el amor por el descubrimiento y el saber. Me gusta conocer todo lo que hay a mi alrededor, y gracias a la ciencia es que se le ha podido dar explicación a todo lo que ocurre en el universo. Los científicos y divulgadores hacen que sea posible.
 
 ![Flowers](./flower.jpg)
+<img src="./flower.jpg" alt="flowerjpg" alt"" width="200" height="50" />
+
