@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Azul Robles 💙💙💙
+## Hi there 👋 I'm Azul Robles 💙
 
 - 🔬 Me gustan las ciencias y trabajar en laboratorios 
 - 🍃 Me gusta leer ciencia ficción, romance y fantasía
